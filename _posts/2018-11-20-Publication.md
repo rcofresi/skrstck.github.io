@@ -8,8 +8,11 @@ tags: [Articles, JASA, Clear Speech, Recognition Memory, Dissertation]
 Keerstock, S., & Smiljanic, R. (2018). Effects of intelligibility on within- and cross-modal sentence recognition memory for native and non-native listeners. The Journal of the Acoustical Society of America, 144(5), 2871–2881. 
   <a href="https://doi.org/10.1121/1.5078589">https://doi.org/10.1121/1.5078589</a>
 <br><a href="https://skrstck.github.io/files/2018_Keerstock_Smiljanic.pdf" >
-  <img src="https://skrstck.github.io/images/icons/tools-and-utensils.png" alt="download" style="width:5%;">
+  <img src="https://skrstck.github.io/images/icons/tools-and-utensils.png" alt="download" style="width:9%;">
 </a>
+
+
+<button type="button">Click Me!</button>
 
 
 <h5>Copyright notice: The documents have been made available to ensure timely dissemination of scholarly work. 
