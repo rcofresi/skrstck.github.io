@@ -9,7 +9,7 @@ Keerstock, S., & Smiljanic, R. (2018). Effects of intelligibility on within- and
   <a href="https://doi.org/10.1121/1.5078589">https://doi.org/10.1121/1.5078589</a>
 <center><br><a href="https://skrstck.github.io/files/2018_Keerstock_Smiljanic.pdf" >
   <img src="https://skrstck.github.io/images/icons/tools-and-utensils.png" alt="download" style="width:9%;">
-</a> <button type="button">View</button></center>
+</a> <button type="button"><a href="https://skrstck.github.io/files/2018_Keerstock_Smiljanic.pdf" >View</button></center>
 
 <h5>Copyright notice: The documents have been made available to ensure timely dissemination of scholarly work. 
   The publishers maintain copyright and all rights of publications. 
