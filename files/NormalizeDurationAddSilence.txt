@@ -1,0 +1,84 @@
+################################################################################################
+# Insert silence before or after each auditory stimulus to normalize stimuli duration
+# By Sandie Keerstock 5/6/2020 
+# Purpose: you have stimuli of varying duration and want to insert a silence portion 
+# at the beginning or at the end to normalize the stimuli duration
+# This script inserts a silence portion and lets you pick the total desired duration for stimuli (in seconds)
+# and whether it should be inserted before or after the auditory stimulus
+# Files are saved to the directory specified by the user with their original names
+################################################################################################
+
+form Insert silence
+comment Specify total duration desired (in seconds) of sound files
+positive total_duration_desired 6
+comment Where do you want to insert the silence?
+choice method: 1
+       button before
+       button after
+comment Specify directory of sound files (don't forget final slash)
+sentence inputDir /Users/sandiekeerstock/Desktop/
+comment Specify directory where you want to save the finished files (don't forget final slash)
+sentence saveDir /Users/sandiekeerstock/Desktop/
+
+endform
+
+Create Strings as file list... list 'inputDir$'*.wav
+numberOfFiles = Get number of strings
+for ifile to numberOfFiles
+   select Strings list
+
+   #open sound file	
+   fileName$ = Get string... ifile
+   Read from file... 'inputDir$''fileName$'
+   mySound = selected("Sound")
+
+#get duration
+soundduration = Get total duration
+
+#compute the silence to be added
+customized_duration =  total_duration_desired - soundduration
+
+
+   #get sampling frequency of sound and create silence based on that
+   sampling_frequency = Get sampling frequency
+   mySilence = Create Sound from formula... silence 1 0 customized_duration sampling_frequency 0
+
+
+   #concatenate with silence before
+if method=1
+   select mySound
+   Copy: "mySoundTwo"
+
+   select all
+   minus Strings list
+   minus mySound
+   myNewSound = Concatenate
+
+   # save concatenated sound to save directory
+   select myNewSound
+   Write to WAV file... 'saveDir$''fileName$'
+   select all
+   minus Strings list
+   Remove
+
+
+#concatenate sound file and silence
+else
+   select mySound
+   plus mySilence
+   myNewSound = Concatenate
+
+   # save concatenated sound to save directory
+   select myNewSound
+   Write to WAV file... 'saveDir$''fileName$'
+   select all
+   minus Strings list
+   Remove
+endif
+
+endfor
+
+select all
+Remove
+
+writeInfoLine: "Files successfully created!"
