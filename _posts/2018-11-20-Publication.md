@@ -1,5 +1,5 @@
 ---
-title:  "Effects of intelligibility on within- and cross-modal sentence recognition memory for native and non-native listeners."
+title:  "Article: Effects of intelligibility on within- and cross-modal sentence recognition memory for native and non-native listeners."
 date:   2018-11-20
 categories: [Papers]
 tags: [Papers, JASA, Clear Speech, Recognition Memory, Dissertation]
