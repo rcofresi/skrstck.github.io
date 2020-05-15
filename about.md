@@ -14,5 +14,5 @@ My research focuses on experimental phonetics, speech perception and production,
   <center>
   <br><a href="https://skrstck.github.io/files/CV_Keerstock.pdf" >
   <img src="https://skrstck.github.io/images/icons/tools-and-utensils.png" alt="download" style="width:9%;"></a>
- <br><button type="button"><a href="https://skrstck.github.io/files/2019_Keerstock_Smiljanic.pdf" ><h1>View my CV</h1></a></button>
+ <br><button type="button"><a href="https://skrstck.github.io/files/2019_Keerstock_Smiljanic.pdf" ><h3>CV</h3></a></button>
   </center>
