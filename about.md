@@ -10,3 +10,8 @@ My research focuses on experimental phonetics, speech perception and production,
 <br>My dissertation examined memory for speech of varying intelligibility: effects of perception and production of clear speech on recall and recognition memory for native and non-native listeners and talkers. 
 <h5> <br> Peer-reviewed articles from dissertation <a href="https://skrstck.github.io/files/2018_Keerstock_Smiljanic.pdf">#1</a> and <a href="https://skrstck.github.io/files/2019_Keerstock_Smiljanic.pdf">#2</a> 
 <br><a href="https://www.youtube.com/watch?v=gori8gyUX-s"> Click here</a> to see a narrated recording of my dissertation slides.</h5>
+
+<h1><center>
+  <br><a href="https://skrstck.github.io/files/CV_Keerstock.pdf" >
+  <img src="https://skrstck.github.io/images/icons/tools-and-utensils.png" alt="download" style="width:9%;"></a>
+ <br><button type="button"><a href="https://skrstck.github.io/files/2019_Keerstock_Smiljanic.pdf" >View my CV</a></button></h1>
