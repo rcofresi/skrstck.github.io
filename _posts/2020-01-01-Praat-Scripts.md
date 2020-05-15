@@ -1,5 +1,5 @@
 ---
-title:  "Script: 3 Praat scripts"
+title:  "Script: recent misc. Praat scripts"
 date:   2020-01-01
 categories: [Scripts]
 tags: [Scripts, Praat]
