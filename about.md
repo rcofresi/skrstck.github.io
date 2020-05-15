@@ -10,7 +10,7 @@ My research focuses on experimental phonetics, speech perception and production,
 <br>My dissertation examined memory for speech of varying intelligibility: effects of perception and production of clear speech on recall and recognition memory for native and non-native listeners and talkers. Click below to see a narrated recording of my dissertation slides:
 <center> <a href="https://www.youtube.com/watch?v=gori8gyUX-s"> <img src="https://skrstck.github.io/images/icons/youtube_icon.png" style="width:10%;"></a><center>
 
-<br> From my dissertation, 2 papers were published in peer-reviewed Journal of the Acoustical Society of America:
+<br> From my dissertation, 2 papers were published in the peer-reviewed <i>Journal of the Acoustical Society of America</i>:
 
 <div>1.<b> Keerstock, S.</b>, & Smiljanic, R. (2019). Clear speech improves listeners’ recall. The Journal of the Acoustical Society of America, 146(6), 4604–4610. 
   <a href="https://doi.org/10.1121/1.5141372">https://doi.org/10.1121/1.5141372</a>
