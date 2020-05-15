@@ -11,7 +11,7 @@ Keerstock, S., & Smiljanic, R. (2019). Clear speech improves listeners’ recall
   <img src="https://skrstck.github.io/assets/icons/arrows.png" alt="download" style="width:2%;">
 </a>
 
-Copyright notice: The documents have been made available to ensure timely dissemination of scholarly work. 
+<h6>Copyright notice: The documents have been made available to ensure timely dissemination of scholarly work. 
   The publishers maintain copyright and all rights of publications. 
   It is understood that all individuals utilizing this information will adhere to the terms/constraints invoked by each copyright.  
-  By clicking on the links below, you are agreeing to abide by these terms and constraints.
+  By clicking on the links below, you are agreeing to abide by these terms and constraints.</h6>
