@@ -17,3 +17,10 @@ with sentence recognition memory. The Journal of the Acoustical Society of Ameri
 		</div>
 	</div>
 </a>
+
+
+<div class="hvrbox">
+		<img src="https://skrstck.github.io/files/4pSC15-thumb.png" alt="View" class="hvrbox-layer_bottom">
+		<div class="hvrbox-layer_top">
+			<div class="hvrbox-text">Click to View PDF <div class="hvrbox-text_mobile">Tap again to go further</div></div>
+		</div>
