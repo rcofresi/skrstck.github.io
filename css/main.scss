@@ -136,39 +136,3 @@ pre.highlight code,
     background: transparent none repeat scroll 0% 0%;
 }
 
-
-/* Overlay bit, if doesnt work, delete https://stackoverflow.com/questions/42263156/image-with-link-and-overlay-hover-effect */
-
-body {
-  font-family: sans-serif;
-}
-
-.container {
-  width: 100px;
-}
-.container a .image {
-  position: relative;
-  width: 100px;
-  height: 100px;
-  background-size: cover;
-}
-.container a .image:before {
-  opacity: 0;
-  content: '';
-  position: absolute;
-  top: 0px;
-  right: 0px;
-  left: 0px;
-  bottom: 0px;
-  background-color: #ff6600;
-  mix-blend-mode: multiply;
-  -webkit-transition: opacity .25s ease;
-  transition: opacity .25s ease;
-}
-.container a:hover .image:before {
-  opacity: 1;
-}
-.container .caption {
-  max-width: 100%;
-  padding: 4px 0;
-}
