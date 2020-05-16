@@ -2,7 +2,7 @@
 title:  "Script: miscellaneous Praat scripts"
 date:   2020-01-01
 categories: [Scripts]
-tags: [Scripts, Praat]
+tags: [Praat]
 ---
 
 <br><a href="https://skrstck.github.io/files/NormalizeDurationAddSilence.txt"><b>1. NormalizeDurationAddSilence </b></a>
