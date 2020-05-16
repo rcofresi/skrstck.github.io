@@ -24,9 +24,9 @@ hello!
 
 
 
-<div class="hvrbox">
-		<img src="https://skrstck.github.io/files/4pSC15-thumb.png" alt="View" class="hvrbox-layer_bottom">
-		<div class="hvrbox-layer_top">
-			<div class="hvrbox-text">Click to View PDF <div class="hvrbox-text_mobile">Tap again to go further</div></div>
-		</div>
-	</div>
+<div class="container">
+   <a href="https://skrstck.github.io/files/4pSC15.pdf">
+      <div class="image" style="background-image:url(https://skrstck.github.io/files/4pSC15-thumb.png)"></div> 
+   </a>
+   <div class="caption">Text goes here.</div> 
+</div>
