@@ -1,7 +1,7 @@
 ---
 layout: hybrid
 title: research
-permalink: /hybrid/
+permalink: /research/
 robots: noindex
 ---
 something
