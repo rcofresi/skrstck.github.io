@@ -2,7 +2,7 @@
 title:  "Article: Clear speech improves listeners’ recall"
 date:   2019-12-27
 categories: [Articles]
-tags: [Articles, JASA, Clear Speech, Recall, Dissertation]
+tags: [JASA, Clear Speech, Recall, Dissertation]
 ---
 
 Keerstock, S., & Smiljanic, R. (2019). Clear speech improves listeners’ recall. The Journal of the Acoustical Society of America, 146(6), 4604–4610. <a href="https://doi.org/10.1121/1.5141372">https://doi.org/10.1121/1.5141372</a>
