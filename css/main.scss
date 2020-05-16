@@ -122,3 +122,16 @@ pre.highlight code,
 .hvrbox.active .hvrbox-text_mobile {
 	display: block;
 }
+
+.hvrbox_background {
+    width: 400px;
+    height: 250px;
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+
+.hvrbox .hvrbox-layer_image {
+    padding: 0px;
+    background: transparent none repeat scroll 0% 0%;
+}
