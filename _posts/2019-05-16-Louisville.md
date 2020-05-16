@@ -18,7 +18,6 @@ hello
 		<div class="hvrbox-layer_top">
 			<div class="hvrbox-text">Click to View PDF <div class="hvrbox-text_mobile">Tap again to go further</div></div>
 		</div>
-	</div>
 </a>
 
 
