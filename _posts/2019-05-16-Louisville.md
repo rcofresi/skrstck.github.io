@@ -1,8 +1,8 @@
 ---
-title:  "Poster: ASA Louisville"
+title:  "Poster: ASA Louisville (2019)"
 date:   2019-06-16
 categories: [Posters]
-tags: [ASA, Clear Speech, Production, Recognition Memory]
+tags: [ASA, Clear Speech, Production, Recognition Memory, 2019]
 ---
 
 Keerstock, S., & Smiljanic, R. (2019). Reading aloud in a clear speaking style may interfere
