@@ -13,15 +13,26 @@ with sentence recognition memory. The Journal of the Acoustical Society of Ameri
 hello!
 
 
-<a href="https://skrstck.github.io/files/4pSC15.pdf"><div class="hvrbox">
+<div class="hvrbox"> 
+	<a href="https://skrstck.github.io/files/4pSC15.pdf"> 
 		<img src="https://skrstck.github.io/files/4pSC15-thumb.png" alt="View" class="hvrbox-layer_bottom">
 		<div class="hvrbox-layer_top">
 			<div class="hvrbox-text">Click to View PDF <div class="hvrbox-text_mobile">Tap again to go further</div></div>
 		</div>
-	</div></a>
+	</a></div>
+
+<hr>
+
+<div class="hvrbox"> 
+	<a href="https://skrstck.github.io/files/4pSC15.pdf"> 
+		<div class="hvrbox-layer_top">
+			<img src="https://skrstck.github.io/files/4pSC15-thumb.png" alt="View" class="hvrbox-layer_bottom">
+			<div class="hvrbox-text">Click to View PDF <div class="hvrbox-text_mobile">Tap again to go further</div></div>
+		</div>
+	</a></div>
 	
 
-
+<hr>
 
 
 <div class="container">
@@ -30,3 +41,5 @@ hello!
    </a>
    <div class="caption">Text goes here.</div> 
 </div>
+
+<hr>
