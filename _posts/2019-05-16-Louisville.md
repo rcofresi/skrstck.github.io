@@ -11,8 +11,8 @@ with sentence recognition memory. The Journal of the Acoustical Society of Ameri
 
 
 <div class="hvrbox">
-	<a href="https://skrstck.github.io/files/4pSC15.pdf"> <img src="https://skrstck.github.io/files/4pSC15-thumb.png" alt="View" class="hvrbox-layer_bottom">
-		</a>
+	<a href="https://skrstck.github.io/files/4pSC15.pdf"> <img src="https://skrstck.github.io/files/4pSC15-thumb.png" </a> alt="View" class="hvrbox-layer_bottom">
+		
 	<div class="hvrbox-layer_top">
 		<div class="hvrbox-text">Click to View PDF</div>
 	</div>
