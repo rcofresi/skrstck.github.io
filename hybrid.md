@@ -1,6 +1,6 @@
 ---
 layout: hybrid
-title: Hybriiiid
+title: research
 permalink: /hybrid/
 robots: noindex
 ---
