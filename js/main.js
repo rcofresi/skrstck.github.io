@@ -21,7 +21,7 @@ $(document).ready(function () {
     $('.panel-cover').addClass('panel-cover--collapsed')
   }
     
-  if (window.location.pathname == 'about') {
+  if (window.location.pathname == 'https://skrstck.github.io/about/') {
     $('.panel-cover').addClass('panel-cover--collapsed')
   }
 
