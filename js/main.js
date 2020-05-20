@@ -21,7 +21,7 @@ $(document).ready(function () {
     $('.panel-cover').addClass('panel-cover--collapsed')
   }
     
-  if (window.location.pathname == '{{ site.baseurl }}//about/') {
+  if (window.location.pathname == '{{ site.baseurl }}/about/') {
     $('.panel-cover').addClass('panel-cover--collapsed')
   }
 
