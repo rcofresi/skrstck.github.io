@@ -20,6 +20,11 @@ pre.highlight code,
 .navigation__item a {
   margin: 5px 0;
   white-space: nowrap;
+	-moz-transition: all 3s ease-in-out 3s;
+	-webkit-transition: all 3s ease-in-out 3s;
+	-ms-transition: all 3s ease-in-out 3s;
+	transition: all 3s ease-in-out 3s;
+	
 }
 
 .pagination__page-number {
