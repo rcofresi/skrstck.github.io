@@ -1,5 +1,5 @@
 ---
-title:  "Article: Clear speech improves listeners’ recall (2019)"
+title:  "Publication: Clear speech improves listeners’ recall (2019)"
 date:   2019-12-27
 categories: [Publications]
 tags: [JASA, Clear Speech, Recall, Dissertation, 2019]
