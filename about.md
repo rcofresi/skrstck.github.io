@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-permalink: /#about/
+permalink: /about/
 ---
 A little bit about me...
 I received my Phd in Linguistics from <a href="https://liberalarts.utexas.edu/linguistics/">The University of Texas at Austin</a> in May 2020. I have been at the <a href="https://utsoundlab.wordpress.com/"> UTsoundLab </a> (PI: Dr. Rajka Smiljanic) since 2015. 
